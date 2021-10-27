@@ -9,8 +9,8 @@ Installation is very simple, just [**click here**](https://github.com/mosesman83
 MM WebSurfer is faster than a lot of the other famous browsers including MS Edge etc.
 ### MM WebSurfer VS Microsoft Edge
 Comparing MS Edge and MM WebSurfer with YouTube
-(images/readme/usage/YT1.png)
-(images/readme/usage/YT2.png)
+![Comparison 1](https://raw.githubusercontent.com/mosesman831/MM-WebSurfer/main/images/readme/usage/YT1.png)
+![Comparison 1](https://raw.githubusercontent.com/mosesman831/MM-WebSurfer/main/images/readme/usage/YT2.png)
 *You can see that MM WebSurfer beat MS Edge performance*
 ## Updates
 Please update it by [**clicking here**](https://github.com/mosesman831/MM-WebSurfer/releases)
